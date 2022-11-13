@@ -1,0 +1,46 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                35
+            ],
+            "id": 269149,
+            "original_language": "en",
+            "original_title": "Zootopia",
+            "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+            "popularity": 127.593,
+            "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+            "release_date": "2016-02-11",
+            "title": "Zootopia",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 14367
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 391711,
+            "original_language": "en",
+            "original_title": "Imagining Zootopia",
+            "overview": "Fusion spent two years with the production team of Disney's smash hit film. In 'Imagining Zootopia,' you will travel with the team to Africa to explore the animals in their natural habitat and find out how the storytellers and animators dealt with the very real themes of prejudice and bias.",
+            "popularity": 8.638,
+            "poster_path": "/dwLfMBuOZL7YUCQZJYTzYIFzZuu.jpg",
+            "release_date": "2016-04-05",
+            "title": "Imagining Zootopia",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 8
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+}
